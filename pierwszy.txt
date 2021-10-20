@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 pierwszy oddech
-=======
-pierwszy wyraz
->>>>>>> parent of 6087ccb (zmienione na papieros)
